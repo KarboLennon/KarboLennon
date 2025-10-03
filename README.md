@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align='center'><i>⚡ Tech Stack</i></h2>
+<h2 align='center'><i>Tech Stack</i></h2>
 
 <table width="100">
 <tr>
@@ -68,7 +68,7 @@
 </tr>
 </table>
 
-### 👀 Visitors
+### Visitors
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KarboLennon)
 ### 🐍 Contribution Snake
 <p align="center">

@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"       # tiap hari 00:00 UTC
-  workflow_dispatch:           # bisa dijalankan manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write              # <-- penting, biar bisa commit/push
+  contents: write
 
 jobs:
   generate:
@@ -16,6 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 0
 
       - name: Generate snake.svg
         uses: Platane/snk@v3
@@ -24,12 +25,13 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Commit & push snake.svg
+      - name: Push snake.svg to 'snake' branch
         run: |
-          mkdir -p output
-          cp dist/snake.svg output/snake.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/snake.svg
+          git fetch origin
+          git switch -C snake
+          cp dist/snake.svg snake.svg
+          git add snake.svg
           git commit -m "chore: update snake" || echo "no changes"
-          git push
+          git push -u origin snake

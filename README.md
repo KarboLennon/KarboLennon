@@ -29,7 +29,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60"/>
     </td>
     <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line-wordmark.svg" width="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"width="60"/>
     </td>
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="60"/>
@@ -59,14 +59,14 @@
     <td align='center'>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" />
     </td>
-    <td align='center'>
-        <!-- Kosong (bisa tambahin nanti) -->
+        <td align='center'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" width="60" />
     </td>
     <td align='center'>
-        <!-- Kosong (bisa tambahin nanti) -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" width="60" />
     </td>
     <td align='center'>
-        <!-- Kosong (bisa tambahin nanti) -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original.svg" width="60" />
     </td>
 </tr>
 </table>

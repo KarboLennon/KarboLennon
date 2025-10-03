@@ -1,10 +1,10 @@
 <h1 align="center">
-  Halo, Everyone <img src="https://raw.githubusercontent.com/KarboLennon/KarboLennon/main/assets/wave.gif" width="30" />
+  Hi there 👋, I'm Muchtar Ali
 </h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=800&center=true&vCenter=true&lines=Full-Stack+Developer;Laravel+%7C+Go+%7C+React+%7C+Next.js;Loves+Clean+Code;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Backend+Engineer+(Laravel+%7C+Go);Frontend+Builder+(React+%7C+Next.js);Passionate+Coder;Open+Source+Explorer;Code+•+Coffee+•+Repeat+☕💻;Lifelong+Learner;Writing+Clean+%26+Scalable+Code;Building+Useful+Things+for+the+Web;Problem+Solver" />
 </p>
+
 
 <p align="center">
   <!-- Badges -->

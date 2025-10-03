@@ -48,6 +48,9 @@
 ---
 
 ### 👀 Visitors
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=KarboLennon)
-[![Muchtar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarboLennon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KarboLennon)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarboLennon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
+

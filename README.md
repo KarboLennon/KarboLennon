@@ -68,19 +68,13 @@
 </tr>
 </table>
 
----
-
+### 👀 Visitors
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KarboLennon)
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/KarboLennon/KarboLennon/snake/snake.svg" alt="snake animation" />
 </p>
 
-
----
-
-### 👀 Visitors
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KarboLennon)
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarboLennon&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>

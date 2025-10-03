@@ -28,7 +28,6 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KarboLennon&show_icons=true&hide_border=true&theme=radical" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=KarboLennon&hide_border=true&theme=radical" />
 </p>
 

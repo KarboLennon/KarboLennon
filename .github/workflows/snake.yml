@@ -2,20 +2,29 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # tiap hari jam 00:00 UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"       # tiap hari 00:00 UTC
+  workflow_dispatch:           # bisa dijalankan manual
+
+permissions:
+  contents: write              # <-- penting, biar bisa commit/push
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          github_user_name: your-username
+          persist-credentials: true
+
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: KarboLennon
           outputs: |
             dist/snake.svg
-      - name: Push Snake
+
+      - name: Commit & push snake.svg
         run: |
           mkdir -p output
           cp dist/snake.svg output/snake.svg

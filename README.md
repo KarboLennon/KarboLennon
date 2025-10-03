@@ -10,7 +10,7 @@
   <!-- Badges -->
   <a href="https://github.com/KarboLennon"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
   <a href="mailto:muchtar.ali15@gmail.com"><img src="https://img.shields.io/badge/Email-444?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/muchtar2301/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muchtarali2301/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -39,28 +39,13 @@
 
 ---
 
-### 🎬 Coding Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
----
-
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/KarboLennon/KarboLennon/snake/snake.svg" alt="snake animation" />
 </p>
 
----
-
-### 🌌 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg" width="700"/>
-</p>
 
 ---
 
 ### 👀 Visitors
-<p align="center">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KarboLennon)
-</p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=KarboLennon)

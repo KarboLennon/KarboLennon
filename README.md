@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=800&center=true&vCenter=true&lines=Full-Stack+Developer;TypeScript+%7C+Go+%7C+Node.js;Open+Source+Enthusiast;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=800&center=true&vCenter=true&lines=Full-Stack+Developer;Laravel+%7C+Go+%7C+React+%7C+Next.js;Loves+Clean+Code;Always+Learning" />
 </p>
 
 <p align="center">
@@ -16,25 +16,41 @@
 ---
 
 ### ⚡ Tech Stack
-<p>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<p align="center">
+  <!-- Backend -->
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" />
+
+  <!-- Frontend Frameworks -->
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
+
+  <!-- Styling -->
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" />
+
+  <!-- Tools -->
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KarboLennon&show_icons=true&hide_border=true&theme=radical" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=KarboLennon&hide_border=true&theme=radical" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/KarboLennon/KarboLennon/output/snake.svg" alt="snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KarboLennon/KarboLennon/output/snake.svg" alt="snake animation" />
+</p>
 
 ---
 

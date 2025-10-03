@@ -9,8 +9,8 @@
 <p align="center">
   <!-- Badges -->
   <a href="https://github.com/KarboLennon"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-444?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/karbolennon/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muchtar.ali15@gmail.com"><img src="https://img.shields.io/badge/Email-444?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/muchtar2301/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,8 +46,9 @@
 </p>
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarboLennon/KarboLennon/main/assets/banner-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarboLennon/KarboLennon/main/assets/banner-light.gif">
-  <img alt="banner" src="https://raw.githubusercontent.com/KarboLennon/KarboLennon/main/assets/banner-light.gif">
-</picture>
+### 🎧 Now Playing
+<p align="center">
+  <a href="https://open.spotify.com/user/jejec1s1l1x5dw434bylxt1zx" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=jejec1s1l1x5dw434bylxt1zx&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>

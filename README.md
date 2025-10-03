@@ -51,7 +51,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KarboLennon/KarboLennon/main/output/snake.svg" alt="snake animation" />
+  <img src="./output/snake.svg" alt="snake animation" />
 </p>
 
 ---

@@ -18,24 +18,16 @@
 ### ⚡ Tech Stack
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:14px;">
-
-    <!-- Backend -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" style="height:clamp(22px, 4vw, 32px);" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" style="height:clamp(22px, 4vw, 32px);" />
-
-    <!-- Frontend Frameworks -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" style="height:clamp(22px, 4vw, 32px);" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" style="height:clamp(22px, 4vw, 32px); background:#fff; border-radius:6px; padding:2px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" style="height:clamp(22px, 4vw, 32px);" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" style="height:clamp(22px, 4vw, 32px);" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" style="height:clamp(22px, 4vw, 32px); background:#fff; border-radius:6px; padding:2px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" title="Vite" style="height:clamp(22px, 4vw, 32px);" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" style="height:clamp(22px, 4vw, 32px);" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" style="height:clamp(22px, 4vw, 32px);" />
-
-    <!-- Styling -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" title="Bulma" style="height:clamp(22px, 4vw, 32px);" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" style="height:clamp(22px, 4vw, 32px);" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" style="height:clamp(22px, 4vw, 32px);" />
-
-    <!-- Tools -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" style="height:clamp(22px, 4vw, 32px);" />
   </div>
 </div>

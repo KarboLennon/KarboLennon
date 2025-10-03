@@ -16,44 +16,39 @@
 ---
 
 ### ⚡ Tech Stack
-<p align="center">
-  <!-- Backend -->
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" />
+<div align="center">
+  <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:14px;">
 
-  <!-- Frontend Frameworks -->
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
+    <!-- Backend -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" style="height:clamp(22px, 4vw, 32px);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" style="height:clamp(22px, 4vw, 32px);" />
 
-  <!-- Styling -->
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" />
-  
+    <!-- Frontend Frameworks -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" style="height:clamp(22px, 4vw, 32px);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" style="height:clamp(22px, 4vw, 32px); background:#fff; border-radius:6px; padding:2px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" title="Vite" style="height:clamp(22px, 4vw, 32px);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" style="height:clamp(22px, 4vw, 32px);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" style="height:clamp(22px, 4vw, 32px);" />
+
+    <!-- Styling -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" title="Bulma" style="height:clamp(22px, 4vw, 32px);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" style="height:clamp(22px, 4vw, 32px);" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" style="height:clamp(22px, 4vw, 32px);" />
+
+    <!-- Tools -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" style="height:clamp(22px, 4vw, 32px);" />
+  </div>
+</div>
+
             
-          
-
   <!-- Tools -->
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" />
 </p>
 
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KarboLennon&show_icons=true&hide_border=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=KarboLennon&hide_border=true&theme=radical" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KarboLennon/KarboLennon/snake/snake.svg?cachebust=1" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/KarboLennon/KarboLennon/snake/snake.svg" alt="snake animation" />
 </p>
-
 ---
 
 <picture>

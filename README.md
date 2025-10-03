@@ -31,24 +31,36 @@
   <!-- Styling -->
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" />
   
-            
-          
-
   <!-- Tools -->
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" />
 </p>
+
+---
+
+### 🎬 Coding Vibes
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+---
 
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/KarboLennon/KarboLennon/snake/snake.svg" alt="snake animation" />
 </p>
+
 ---
 
-### 🎧 Now Playing
+### 🌌 3D Contribution Graph
 <p align="center">
-  <a href="https://open.spotify.com/user/jejec1s1l1x5dw434bylxt1zx" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=jejec1s1l1x5dw434bylxt1zx&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg" width="700"/>
+</p>
+
+---
+
+### 👀 Visitors
+<p align="center">
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KarboLennon)
 </p>

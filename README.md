@@ -1,5 +1,5 @@
 <h1 align="center">
-  Halo, gue KarboLennon <img src="https://raw.githubusercontent.com/KarboLennon/KarboLennon/main/assets/wave.gif" width="30" />
+  Halo, Everyone <img src="https://raw.githubusercontent.com/KarboLennon/KarboLennon/main/assets/wave.gif" width="30" />
 </h1>
 
 <p align="center">

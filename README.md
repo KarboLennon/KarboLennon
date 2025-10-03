@@ -54,6 +54,9 @@
 </tr>
 <tr>
     <td align='center'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" />
+    </td>
+    <td align='center'>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60"/>
     </td>
     <td align='center'>
@@ -64,9 +67,6 @@
     </td>
     <td align='center'>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" width="60" />
-    </td>
-    <td align='center'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original.svg" width="60" />
     </td>
 </tr>
 </table>
